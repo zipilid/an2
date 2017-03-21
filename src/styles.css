@@ -9,5 +9,12 @@ li{
 
 tree-node>div:hover{
   background-color:lightblue; 
+}
+tree-node>div{
+  padding: 10px;
   cursor: pointer;
+}
+
+ul{
+  margin: 0px;
 }
