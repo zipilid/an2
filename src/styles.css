@@ -1,0 +1,12 @@
+body{
+  font-size: 18px;
+  margin: 50px;
+}
+
+li{
+  list-style-type: none;
+}
+
+tree-node>div:hover{
+  background-color:lightblue; 
+}
